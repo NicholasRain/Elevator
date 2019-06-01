@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1556450304 source:f:\codeblocks\數呾ん\worker\advelevator\date.cpp
+	"date.h"
+
+1556450303 f:\codeblocks\數呾ん\worker\advelevator\date.h
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<string>
+	<cstdio>
+
+1557240367 source:f:\codeblocks\數呾ん\worker\advelevator\person.cpp
+	"person.h"
+
+1557240367 f:\codeblocks\數呾ん\worker\advelevator\person.h
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<string>
+	<cstdio>
+
+1556450580 source:f:\codeblocks\數呾ん\worker\advelevator\ele.cpp
+	"ele.h"
+	<iostream>
+
+1556450659 f:\codeblocks\數呾ん\worker\advelevator\ele.h
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+
+1557240559 source:f:\codeblocks\數呾ん\worker\advelevator\main.cpp
+	<iostream>
+	"adele.h"
+	"date.h"
+
+1557240367 f:\codeblocks\數呾ん\worker\advelevator\adele.h
+	"ele.h"
+	"person.h"
+	<vector>
+
+1557240521 source:f:\codeblocks\數呾ん\worker\advelevator\adele.cpp
+	"adele.h"
+
